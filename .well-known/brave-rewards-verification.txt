@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: emilecalixte.github.io
+Token: 1fe41165efb0fa83fa22ed7f910fd3cb772075e1a08aa7fd32bd7cf8a5be0083
